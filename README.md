@@ -9,4 +9,4 @@ Tham khảo tại:
 
 [LUA in nginx: slightly intellectual firewall](http://sysmagazine.com/posts/215235/)
 
-Blog: [LUA in nginx: slightly intellectual firewall](http://swpag.info/?p=554)
+Blog: [LUA + Nginx: xây dựng tường lửa thông minh](http://swpag.info/?p=554)
